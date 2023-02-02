@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+##### - I am Ashajyothi
+##### - I am from Guntur
+##### - I am pursuing masters
 <!--
 **AJM167/AJM167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
